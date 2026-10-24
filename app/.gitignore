@@ -1,0 +1,11 @@
+engine/data/
+engine/build/
+engine/dist/
+engine/*.spec
+gui/data/
+gui/*.ini
+__pycache__/
+dist/
+vendor/
+gui/летопись/
+plugin/build/

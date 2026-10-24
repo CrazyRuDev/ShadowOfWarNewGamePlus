@@ -1,0 +1,8 @@
+game_files/
+game files/
+__pycache__/
+таблицы/
+CLAUDE.md
+*.sav
+*.bak
+!app/gui/bases/*.sav
